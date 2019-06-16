@@ -32,7 +32,6 @@ interests:
 education:
   courses:
   - course: Master of Public Health
-    Major: Epidemiology and Biostatistics
     institution: University of Melbourne
     year: 2014
  
