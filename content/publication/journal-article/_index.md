@@ -14,7 +14,7 @@ authors:
 - C.F. Ndiaye
 - I.S. Fall
 
-date: "2018-06-12"
+date: "2018-06-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -27,10 +27,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Epidemiology and Infection"
+publication: In *Epidemiology and Infection*
 publication_short: ""
 
-abstract: The 2017 plague outbreak in Madagascar was unprecedented in the African region, resulting in 2417 cases (498 confirmed, 793 probable and 1126 suspected) and 209 deaths by the end of the acute urban pneumonic phase of the outbreak. The Health Emergencies Programme of the WHO Regional Office for Africa together with the WHO Country Office and WHO Headquarters assisted the Ministry of Public Health of Madagascar in the rapid implementation of plague prevention and control measures while collecting and analysing quantitative and qualitative data to inform immediate interventions. We document the key findings of the evidence available to date and actions taken as a result. Based on the four goals of operational research - effective dissemination of results, peer-reviewed publication, changes to policy and practice and improvements in programme performance and health - we evaluate the use of evidence to inform response to the outbreak and describe lessons learned for future outbreak responses in the WHO African region. This article may not be reprinted or reused in any way in order to promote any commercial products or services.
+abstract: The 2017 plague outbreak in Madagascar was unprecedented in the African region, resulting in 2417 cases (498 confirmed, 793 probable and 1126 suspected) and 209 deaths by the end of the acute urban pneumonic phase of the outbreak. The Health Emergencies Programme of the WHO Regional Office for Africa together with the WHO Country Office and WHO Headquarters assisted the Ministry of Public Health of Madagascar in the rapid implementation of plague prevention and control measures while collecting and analysing quantitative and qualitative data to inform immediate interventions. We document the key findings of the evidence available to date and actions taken as a result. Based on the four goals of operational research - effective dissemination of results, peer-reviewed publication, changes to policy and practice and improvements in programme performance and health - we evaluate the use of evidence to inform response to the outbreak and describe lessons learned for future outbreak responses in the WHO African region.
 
 # Summary. An optional shortened abstract.
 summary: ""
