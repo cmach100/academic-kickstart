@@ -24,12 +24,18 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Data Visualisation"
-  description = "ggplot + plotly + d3.js%"  
+  description = "ggplot + plotly + d3.js"  
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = "Experimenting with machine learning"
+
+  [[feature]]
+  icon = "calculator"
+  icon_pack = "fas"
+  name = "Statistics"
+  description = "Descriptive and Inferential Statistics"
 
 +++
