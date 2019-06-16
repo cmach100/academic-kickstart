@@ -42,7 +42,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A10E864926C053916E62BBE64F079294/S0950268818001875a.pdf/using_evidence_to_inform_response_to_the_2017_plague_outbreak_in_madagascar_a_view_from_the_who_african_regional_office.pdf
+url_pdf: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A10E864926C053916E62BBE64F079294/S0950268818001875a.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
