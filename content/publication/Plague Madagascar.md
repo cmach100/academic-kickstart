@@ -1,4 +1,3 @@
-+++
 abstract = "An abstract..."
 authors = ["K. Heitzinger", "B. Impouma", "B.L. Farham", "E.L. Hamblion", "C. Lukoya", "C. Machingaidze",
 "L.A. Rakonjanabelo", "M. Yao", "B. Diallo", "M.H. Djingarey", "N. Nsenga", "C.F. Ndiaye", "I.S. Fall"]
@@ -13,4 +12,3 @@ url_pdf = "https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 url_project = ""
 url_slides = ""
 url_video = ""
-+++
