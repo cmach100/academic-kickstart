@@ -22,8 +22,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Biostatistics
+- Data visualisation
 - Artificial intelligence
 - Time series forecasting
+- Statistical modelling
 
 
 education:
@@ -40,10 +42,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact cmachingaidze@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/chiedza_io
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/chiedza-machingaidze-4165b375/
