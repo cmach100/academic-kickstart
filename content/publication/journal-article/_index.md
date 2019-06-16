@@ -39,7 +39,7 @@ tags:
 - Epidemics
 - infectious disease control
 - Plague
-featured: false
+featured: true
 
 # links:
 # - name: ""
