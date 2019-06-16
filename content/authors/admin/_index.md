@@ -21,7 +21,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Public health (epidemiology - infectious disease surveillance)
+- Public health
+- Epidemiology
+- Infectious disease surveillance
 - Biostatistics
 - Statistical modelling
 - Data visualisation
