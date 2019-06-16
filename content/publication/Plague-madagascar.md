@@ -1,4 +1,4 @@
-abstract = "An abstract..."
+abstract = ""
 authors = ["K. Heitzinger", "B. Impouma", "B.L. Farham", "E.L. Hamblion", "C. Lukoya", "C. Machingaidze", "L.A. Rakonjanabelo", "M. Yao", "B. Diallo", "M.H. Djingarey", "N. Nsenga", "C.F. Ndiaye", "I.S. Fall"]
 date = "2018-06-12"
 image = ""
