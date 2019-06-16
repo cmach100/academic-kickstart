@@ -1,3 +1,4 @@
+---
 title: "Using evidence to inform response to the 2017 plague outbreak in Madagascar: a view from the WHO African Regional Office"
 authors:
 - K. Heitzinger
