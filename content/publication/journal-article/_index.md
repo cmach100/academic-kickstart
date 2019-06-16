@@ -36,9 +36,7 @@ abstract: The 2017 plague outbreak in Madagascar was unprecedented in the Africa
 summary: ""
 
 tags:
-- Epidemics
-- infectious disease control
-- Plague
+
 featured: true
 
 # links:
