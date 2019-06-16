@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Chiedza Machingaidze
 
 # Username (this should match the folder name)
 authors:
-- admin
+- Chiedza
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Data Analyst
 
 # Organizations/Affiliations
 organizations:
