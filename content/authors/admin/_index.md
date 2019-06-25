@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Public health 123
+- Public health 123test
 - Epidemiology
 - Infectious disease surveillance
 - Biostatistics
