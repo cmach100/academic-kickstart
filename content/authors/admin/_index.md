@@ -27,7 +27,7 @@ interests:
 - Biostatistics
 - Statistical modelling
 - Data visualisation
-- Artificial intelligence
+- Machine learning
 - Time series forecasting
 
 
@@ -71,6 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I'm Data Analyst with Master of Public Health in Epidemiology and Biostatistics. I translate large datasets into useful insights for decision making. I use R, Python, Stata, SQL Server and Excel (if I have to!). With a knack for learning new programming languages, I'm currently teaching myself JavaScript data visualisation library D3.js and exploring machine learning.
