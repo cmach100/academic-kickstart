@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I'm Data Analyst with Master of Public Health in Epidemiology and Biostatistics. I translate large datasets into useful insights for decision making. I use R, Python, Stata, SQL Server and Excel (if I have to!). With a knack for learning new programming languages, I'm currently teaching myself JavaScript data visualisation library D3.js and exploring machine learning.
+I'm Data Analyst with Master of Public Health in Epidemiology and Biostatistics. I translate large datasets into useful insights for decision making. I use R, Python, Stata, SQL Server and Excel (if I have to!). When I'm not working, I can be found teaching myself JavaScript data visualisation library D3.js and exploring machine learning and/or at a cafe somewhere in Melbourne.
